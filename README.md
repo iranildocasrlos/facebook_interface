@@ -1,10 +1,10 @@
-# facebook_interface_aula
+# facebook_interface
 
-A new Flutter project.
+Projeto feito em flutter, com o intuito de estudo da linguagem aproveitando todos os recursos de interface da linguagem.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
+Este projeto serve como base para uma rede social, interface semelhante as redes sociais.
+Fique a vontade para adicionar recursos ou baixar o projeto.
 
 A few resources to get you started if this is your first Flutter project:
 
